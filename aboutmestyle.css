@@ -1,0 +1,21 @@
+body{
+background-color: gray;
+color: white;
+}
+h1,h2,h3{
+color: blue;
+}
+P.any:first-letter {
+    font-size: 4.5em;
+    float: left;
+    margin-top: .15em;
+}
+div,h2{
+font-size:24px;
+}
+a:link, a:visited{
+text-decoration:none;
+}
+a:hover{
+text-decoration: underline;
+}
